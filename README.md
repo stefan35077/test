@@ -15,7 +15,7 @@ Clone this repository to your computer via the CLI (cmd or terminal):
   * git push origin main OR git push
   * git status (optional)
   * git pull
-  * stefan change
+  * tim likes to suck big black cocks
 
 ## Commands explained:
 When you've made a handful of meaningful changes to the code, you can bundle them and label them (a **commit**):
